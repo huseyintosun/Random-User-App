@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Random-User-App/static/css/main.ac20a1d6.chunk.css",
+    "main.js": "/Random-User-App/static/js/main.dd3b5ce9.chunk.js",
+    "main.js.map": "/Random-User-App/static/js/main.dd3b5ce9.chunk.js.map",
+    "runtime-main.js": "/Random-User-App/static/js/runtime-main.da415788.js",
+    "runtime-main.js.map": "/Random-User-App/static/js/runtime-main.da415788.js.map",
+    "static/js/2.3b0f91d4.chunk.js": "/Random-User-App/static/js/2.3b0f91d4.chunk.js",
+    "static/js/2.3b0f91d4.chunk.js.map": "/Random-User-App/static/js/2.3b0f91d4.chunk.js.map",
+    "static/js/3.6dc7dfd3.chunk.js": "/Random-User-App/static/js/3.6dc7dfd3.chunk.js",
+    "static/js/3.6dc7dfd3.chunk.js.map": "/Random-User-App/static/js/3.6dc7dfd3.chunk.js.map",
+    "index.html": "/Random-User-App/index.html",
+    "static/css/main.ac20a1d6.chunk.css.map": "/Random-User-App/static/css/main.ac20a1d6.chunk.css.map",
+    "static/js/2.3b0f91d4.chunk.js.LICENSE.txt": "/Random-User-App/static/js/2.3b0f91d4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.da415788.js",
+    "static/js/2.3b0f91d4.chunk.js",
+    "static/css/main.ac20a1d6.chunk.css",
+    "static/js/main.dd3b5ce9.chunk.js"
+  ]
+}
